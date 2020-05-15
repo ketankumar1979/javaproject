@@ -42,6 +42,4 @@ class Childrent extends Parent{
         obj.balance();
     }
 }
-//Interface
-//ketan
 
