@@ -42,5 +42,9 @@ class Childrent extends Parent{
         obj.balance();
     }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> ef36affad2f91de78bf1eb7a6c8840f9f33aa54f
 
+//venus patel
