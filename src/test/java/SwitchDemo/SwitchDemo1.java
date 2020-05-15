@@ -50,6 +50,7 @@ class SwitchDemo2{
         }
     }
 }
+//complete all the homework
 // home work in the class
 //1. identify Vowel or Constant character
 // include a,e,i,o,u as case value and create 4 switch programme
