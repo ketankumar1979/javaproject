@@ -50,6 +50,7 @@ class SwitchDemo2{
         }
     }
 }
+//chirag code is completed.
 //complete all the homework
 // home work in the class
 //1. identify Vowel or Constant character
